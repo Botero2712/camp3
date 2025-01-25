@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://botero2712.github.io/camp3",
+  "homepage": "https://github.com/Botero2712/camp3.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
